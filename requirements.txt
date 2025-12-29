@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+flask
+requests
+Pillow
+replicate
