@@ -33,7 +33,7 @@ and you are ready to go
 
 ---
 ## start commands
-- python boy.py
+- python bot.py
 ## build commands
 - pip install -r requirements.txt
 
